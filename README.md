@@ -39,27 +39,6 @@
 
 ---
 
-### 📈 My GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devkrishnaajith&show_icons=true&theme=algolia" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devkrishnaajith&theme=algolia" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devkrishnaajith&layout=compact&theme=algolia" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=devkrishnaajith&theme=algolia&row=1&column=7" />
-</p>
-
----
-
 ### 🌐 Visitors Count
 
 <p align="center">
