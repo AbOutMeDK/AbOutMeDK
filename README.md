@@ -9,7 +9,6 @@
   <a href="https://devkrishnaajith.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-devkrishnaajith.netlify.app-orange?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/devkrishnaajith" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dev%20Krishna%20Ajith-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://instagram.com/dev.krishna.ajith" target="_blank"><img src="https://img.shields.io/badge/Instagram-dev.krishna.ajith-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://t.me/AccountPoyaDK" target="_blank"><img src="https://img.shields.io/badge/Telegram-AccountPoyaDK-0088cc?style=for-the-badge&logo=telegram" /></a>
 </p>
 
 ---
@@ -49,10 +48,10 @@
 
 ### 🤝 Let's Connect
 
-- 🔗 **Website**: [devkrishnaajith.netlify.app](https://devkrishnaajith.netlify.app)
-- 💬 **Telegram**: [@AccountPoyaDK](https://t.me/AccountPoyaDK)
-- 💼 **LinkedIn**: [devkrishnaajith](https://linkedin.com/in/devkrishnaajith)
-- 📸 **Instagram**: [dev.krishna.ajith](https://instagram.com/dev.krishna.ajith)
+- 🔗 [**Website**](https://devkrishnaajith.netlify.app)
+- 💬 [**Telegram**](https://t.me/AccountPoyaDK)
+- 💼 [**LinkedIn**](https://linkedin.com/in/devkrishnaajith)
+- 📸 [**Instagram**](https://instagram.com/dev.krishna.ajith)
 
 ---
 
