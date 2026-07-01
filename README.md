@@ -1,39 +1,45 @@
-<h1 align="center">Hey there 👋, I'm Dev Krishna Ajith</h1>
-<h3 align="center">🚀 Building useful products | 💻 Web Dev & Telegram Bot Enthusiast | 📈 Market Explorer</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&height=45&lines=I+love+creating+impactful+products;I+build+web+apps+and+Telegram+bots;Always+learning%2C+always+exploring+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<!-- ══════════════════════════════ HEADER ══ -->
 
-<p align="center">
-  <a href="https://linkedin.com/in/devkrishnaajith" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dev%20Krishna%20Ajith-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://instagram.com/dev.krishna.ajith" target="_blank"><img src="https://img.shields.io/badge/Instagram-dev.krishna.ajith-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0d0d1a,50:1a0a3a,100:0a1a2a&text=Dev%20Krishna%20Ajith&fontSize=70&fontColor=c8b8ff&animation=fadeIn&fontAlignY=50&stroke=6352ff&strokeWidth=2&desc=Full-Stack%20Developer%20%7C%20Bot%20Architect%20%7C%20Product%20Builder&descSize=18&descColor=5d6a8a&descAlignY=68" width="100%"/>
 
----
+</div>
 
-### 🧠 About Me
-- 🎯 I like building **something different** that matters.
-- 📊 Passionate about the **market**, products, and **user-centered design**.
-- 🧩 I love **web development** and building **Telegram bots** that solve real problems.
+<br/>
 
----
+<div align="center">
 
-### 🌐 Visitors Count
+![](https://img.shields.io/badge/⚡_Status-Building_Impactful_Products-6352ff?style=for-the-badge&labelColor=0d0d1a)
+&ensp;
+![](https://img.shields.io/badge/🌱_Learning-Advanced_Web_Architecture-14b882?style=for-the-badge&labelColor=0d0d1a)
+&ensp;
+![](https://img.shields.io/badge/🤝_Open_To-Collaborations-fb923c?style=for-the-badge&labelColor=0d0d1a)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devkrishnaajith&style=flat-square&color=blue" alt="Visitor count" />
-</p>
+</div>
+
+<br/>
 
 ---
 
-### 🤝 Let's Connect
+<!-- ══════════════════════════════ ABOUT ME ══ -->
 
-- 💬 [**Telegram**](https://t.me/PookieBerg)
-- 💼 [**LinkedIn**](https://linkedin.com/in/devkrishnaajith)
-- 📸 [**Instagram**](https://instagram.com/dev.krishna.ajith)
+```python
+# ── profile ─────────────────────────────────────────────────────
 
----
-
-🧠 *“Code with purpose. Build what matters.”*
-
+class Developer:
+    name        = "Dev Krishna Ajith"
+    title       = "Full-Stack Developer & Bot Architect"
+    mission     = "Building products that solve real problems"
+    
+    tech_stack  = ["Python", "JavaScript", "React", "Node.js", "Docker"]
+    expertise   = ["Web Applications", "Telegram Bots", "API Design"]
+    interests   = ["Product Strategy", "Market Trends", "Open Source"]
+    
+    socials     = {
+        "telegram": "@PookieBerg",
+        "linkedin": "devkrishnaajith",
+        "instagram": "dev.krishna.ajith"
+    }
+    
+    motto       = "Code with purpose. Build what matters. 🚀"
