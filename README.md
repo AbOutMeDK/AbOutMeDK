@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://devkrishnaajith.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-devkrishnaajith.netlify.app-orange?style=for-the-badge" /></a>
   <a href="https://linkedin.com/in/devkrishnaajith" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dev%20Krishna%20Ajith-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://instagram.com/dev.krishna.ajith" target="_blank"><img src="https://img.shields.io/badge/Instagram-dev.krishna.ajith-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
@@ -48,8 +47,7 @@
 
 ### 🤝 Let's Connect
 
-- 🔗 [**Website**](https://devkrishnaajith.netlify.app)
-- 💬 [**Telegram**](https://t.me/AccountPoyaDK)
+- 💬 [**Telegram**](https://t.me/PookieBerg)
 - 💼 [**LinkedIn**](https://linkedin.com/in/devkrishnaajith)
 - 📸 [**Instagram**](https://instagram.com/dev.krishna.ajith)
 
